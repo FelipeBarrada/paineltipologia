@@ -1,0 +1,13 @@
+{
+  "municipios": 5571,
+  "registros": 56368662,
+  "bases": [
+    "variaveis_gerais",
+    "rais2020",
+    "renda_responsavel_2022",
+    "saneamento_2023",
+    "seguranca_alimentar_2024",
+    "siconfi_corrigida",
+    "munic_corrigida"
+  ]
+}
